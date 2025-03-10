@@ -9,7 +9,32 @@
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"$GMRTileLayer":"","%Name":"Sidewalk","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Sidewalk","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":9,"SerialiseWidth":16,"TileCompressedData":[
+          -2,-2147483648,2,3,1,-8,-2147483648,2,3,2,-4,-2147483648,2,1,3,-8,-2147483648,-2,2,-4,-2147483648,2,
+          2,1,-8,-2147483648,2,2,3,-4,-2147483648,2,3,2,-8,-2147483648,-2,2,-4,-2147483648,2,1,2,-8,-2147483648,
+          -2,2,-4,-2147483648,2,2,3,-8,-2147483648,2,3,2,-4,-2147483648,2,3,1,-8,-2147483648,-2,2,-4,-2147483648,
+          -2,2,-8,-2147483648,2,2,3,-4,-2147483648,2,3,1,-8,-2147483648,-2,2,-2,-2147483648,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"SidewalkTileset","path":"tilesets/SidewalkTileset/SidewalkTileset.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"$GMRTileLayer":"","%Name":"Asphalt","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Asphalt","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":9,"SerialiseWidth":16,"TileCompressedData":[
+          -4,-2147483648,8,1,3,1,3,1,1,3,2,-8,-2147483648,8,3,1,2,3,1,3,1,3,-5,-2147483648,11,0,-2147483648,-2147483648,
+          2,1,2,1,1,2,3,1,-8,-2147483648,8,1,3,1,2,3,3,1,3,-8,-2147483648,8,1,3,2,1,1,3,2,1,-8,-2147483648,8,3,
+          1,2,3,3,2,1,3,-8,-2147483648,8,2,1,3,3,2,1,3,1,-8,-2147483648,8,2,3,1,3,1,3,1,3,-8,-2147483648,8,1,3,
+          2,2,3,1,3,2,-4,-2147483648,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"AsphaltTileset","path":"tilesets/AsphaltTileset/AsphaltTileset.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"$GMRTileLayer":"","%Name":"GrassM","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"GrassM","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":9,"SerialiseWidth":16,"TileCompressedData":[
+          1,1,-13,-2147483648,1,2,-16,-2147483648,-2,3,1,2,-12,-2147483648,3,1,3,1,-15,-2147483648,1,3,-14,-2147483648,
+          1,1,-14,-2147483648,4,2,3,2,3,-15,-2147483648,1,1,-13,-2147483648,1,1,-14,-2147483648,2,3,-2147483648,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"MushroomTileset","path":"tilesets/MushroomTileset/MushroomTileset.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"$GMRTileLayer":"","%Name":"Grass","depth":400,"effectEnabled":true,"effectType":"none","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Grass","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":9,"SerialiseWidth":16,"TileCompressedData":[
+          2,0,3,-12,-2147483648,4,0,2,3,2,-12,-2147483648,4,2,3,2,0,-5,-2147483648,1,0,-6,-2147483648,4,1,0,3,
+          1,-3,-2147483648,1,0,-8,-2147483648,-2,1,2,0,3,-12,-2147483648,4,2,1,3,3,-4,-2147483648,1,0,-7,-2147483648,
+          4,0,2,0,3,-12,-2147483648,-3,3,1,0,-12,-2147483648,4,1,0,3,3,-12,-2147483648,-2,2,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"GrassTileset","path":"tilesets/GrassTileset/GrassTileset.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"$GMRTileLayer":"","%Name":"GrassF","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"GrassF","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":9,"SerialiseWidth":16,"TileCompressedData":[
+          1,1,-13,-2147483648,3,1,-2147483648,1,-16,-2147483648,1,1,-13,-2147483648,1,1,-16,-2147483648,1,2,-29,
+          -2147483648,3,2,-2147483648,3,-16,-2147483648,1,2,-13,-2147483648,1,1,-16,-2147483648,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"FlowerTileset","path":"tilesets/FlowerTileset/FlowerTileset.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"rm_level1",
   "parent":{
