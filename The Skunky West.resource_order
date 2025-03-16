@@ -1,8 +1,10 @@
 {
   "FolderOrderSettings":[
     {"name":"Story Text","order":11,"path":"folders/Fonts/Story Text.yy",},
+    {"name":"Game","order":3,"path":"folders/Objects/Game.yy",},
     {"name":"Menu","order":1,"path":"folders/Objects/Menu.yy",},
     {"name":"Misc","order":2,"path":"folders/Objects/Misc.yy",},
+    {"name":"Game","order":2,"path":"folders/Sprites/Game.yy",},
     {"name":"Title","order":1,"path":"folders/Sprites/Title.yy",},
     {"name":"Buttons","order":2,"path":"folders/Sprites/Title/Buttons.yy",},
     {"name":"Misc","order":3,"path":"folders/Sprites/Title/Misc.yy",},
@@ -38,6 +40,8 @@
     {"name":"Basic_Grass_Tileset","order":1,"path":"sprites/Basic_Grass_Tileset/Basic_Grass_Tileset.yy",},
     {"name":"Grass_Flower_Tileset","order":2,"path":"sprites/Grass_Flower_Tileset/Grass_Flower_Tileset.yy",},
     {"name":"Grass_Mushroom_Tileset","order":3,"path":"sprites/Grass_Mushroom_Tileset/Grass_Mushroom_Tileset.yy",},
+    {"name":"Placeholder_Up","order":3,"path":"sprites/Placeholder_Up/Placeholder_Up.yy",},
+    {"name":"Placeholder","order":2,"path":"sprites/Placeholder/Placeholder.yy",},
     {"name":"Road_Asphalt_Tileset","order":4,"path":"sprites/Road_Asphalt_Tileset/Road_Asphalt_Tileset.yy",},
     {"name":"Sidewalk_Tileset","order":5,"path":"sprites/Sidewalk_Tileset/Sidewalk_Tileset.yy",},
     {"name":"Spr_CreditsMenu","order":6,"path":"sprites/Spr_CreditsMenu/Spr_CreditsMenu.yy",},
