@@ -48,6 +48,8 @@
     {"name":"Placeholder_Up","order":3,"path":"sprites/Placeholder_Up/Placeholder_Up.yy",},
     {"name":"Placeholder","order":2,"path":"sprites/Placeholder/Placeholder.yy",},
     {"name":"Road_Asphalt_Tileset","order":4,"path":"sprites/Road_Asphalt_Tileset/Road_Asphalt_Tileset.yy",},
+    {"name":"Road_Asphalt_Tileset","order":4,"path":"sprites/Road_Asphalt_Tileset/Road_Asphalt_Tileset.yy",},
+    {"name":"Sidewalk_Tileset","order":5,"path":"sprites/Sidewalk_Tileset/Sidewalk_Tileset.yy",},
     {"name":"Sidewalk_Tileset","order":5,"path":"sprites/Sidewalk_Tileset/Sidewalk_Tileset.yy",},
     {"name":"Spr_ConeLeftFast","order":1,"path":"sprites/Spr_ConeLeftFast/Spr_ConeLeftFast.yy",},
     {"name":"Spr_ConeRight","order":2,"path":"sprites/Spr_ConeRight/Spr_ConeRight.yy",},
