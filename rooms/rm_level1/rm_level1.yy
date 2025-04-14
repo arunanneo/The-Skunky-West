@@ -8,6 +8,7 @@
   "instanceCreationOrder":[
     {"name":"inst_16AA0951","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_2EB1F4E8","path":"rooms/rm_level1/rm_level1.yy",},
+    {"name":"inst_179A3D8E","path":"rooms/rm_level1/rm_level1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -25,6 +26,7 @@
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_16AA0951","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_16AA0951","objectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2560.0,"y":3616.0,},
         {"$GMRInstance":"v1","%Name":"inst_2EB1F4E8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2EB1F4E8","objectId":{"name":"Obj_FastConeLeft","path":"objects/Obj_FastConeLeft/Obj_FastConeLeft.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.173913,"scaleY":5.173913,"x":2272.0,"y":3552.0,},
+        {"$GMRInstance":"v1","%Name":"inst_179A3D8E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_179A3D8E","objectId":{"name":"Obj_Manager","path":"objects/Obj_Manager/Obj_Manager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2016.0,"y":1984.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Roads","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[
         {"$GMRTileLayer":"","%Name":"Sidewalk","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Sidewalk","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":60,"SerialiseWidth":40,"TileCompressedData":[
