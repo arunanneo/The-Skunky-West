@@ -109,6 +109,7 @@
     {"id":{"name":"Spr_Previous","path":"sprites/Spr_Previous/Spr_Previous.yy",},},
     {"id":{"name":"Spr_SideSkunk","path":"sprites/Spr_SideSkunk/Spr_SideSkunk.yy",},},
     {"id":{"name":"Spr_Wind","path":"sprites/Spr_Wind/Spr_Wind.yy",},},
+    {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},},
     {"id":{"name":"Title_Screen_Background","path":"sprites/Title_Screen_Background/Title_Screen_Background.yy",},},
     {"id":{"name":"Title","path":"sprites/Title/Title.yy",},},
     {"id":{"name":"Todd","path":"sprites/Todd/Todd.yy",},},
