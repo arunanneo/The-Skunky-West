@@ -9,6 +9,7 @@
     {"name":"Obj_FastConeRight","order":3,"path":"objects/Obj_FastConeRight/Obj_FastConeRight.yy",},
     {"name":"Obj_Manager","order":1,"path":"objects/Obj_Manager/Obj_Manager.yy",},
     {"name":"Obj_Menu_Manager","order":3,"path":"objects/Obj_Menu_Manager/Obj_Menu_Manager.yy",},
+    {"name":"Obj_ObstacleParent","order":4,"path":"objects/Obj_ObstacleParent/Obj_ObstacleParent.yy",},
     {"name":"snd_music_game","order":1,"path":"sounds/snd_music_game/snd_music_game.yy",},
     {"name":"Blue_Wall_Tileset","order":2,"path":"sprites/Blue_Wall_Tileset/Blue_Wall_Tileset.yy",},
     {"name":"Red_Wall_Tileset","order":1,"path":"sprites/Red_Wall_Tileset/Red_Wall_Tileset.yy",},
