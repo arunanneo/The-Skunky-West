@@ -114,6 +114,7 @@
     {"id":{"name":"Spr_HelpButton","path":"sprites/Spr_HelpButton/Spr_HelpButton.yy",},},
     {"id":{"name":"spr_helpmenu_exit","path":"sprites/spr_helpmenu_exit/spr_helpmenu_exit.yy",},},
     {"id":{"name":"Spr_HelpMenu","path":"sprites/Spr_HelpMenu/Spr_HelpMenu.yy",},},
+    {"id":{"name":"Spr_Leaf","path":"sprites/Spr_Leaf/Spr_Leaf.yy",},},
     {"id":{"name":"Spr_Next","path":"sprites/Spr_Next/Spr_Next.yy",},},
     {"id":{"name":"Spr_PlayButton","path":"sprites/Spr_PlayButton/Spr_PlayButton.yy",},},
     {"id":{"name":"Spr_Previous","path":"sprites/Spr_Previous/Spr_Previous.yy",},},
