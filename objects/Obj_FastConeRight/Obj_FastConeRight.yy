@@ -6,8 +6,8 @@
   "name":"Obj_FastConeRight",
   "overriddenProperties":[],
   "parent":{
-    "name":"Game",
-    "path":"folders/Objects/Game.yy",
+    "name":"Obstacles",
+    "path":"folders/Objects/Game/Obstacles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
