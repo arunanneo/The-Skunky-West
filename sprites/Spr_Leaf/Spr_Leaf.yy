@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"Spr_Leaf",
   "bboxMode":0,
-  "bbox_bottom":107,
+  "bbox_bottom":111,
   "bbox_left":36,
   "bbox_right":87,
   "bbox_top":16,
