@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Obstacles",
-    "path":"folders/Objects/Game/Obstacles.yy",
+    "path":"folders/Objects/Obstacles.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
   "%Name":"Obj_ConeLeft",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Obj_ConeLeft",
   "overriddenProperties":[],
   "parent":{
     "name":"Obstacles",
-    "path":"folders/Objects/Game/Obstacles.yy",
+    "path":"folders/Objects/Obstacles.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_ObstacleParent",
+    "path":"objects/Obj_ObstacleParent/Obj_ObstacleParent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

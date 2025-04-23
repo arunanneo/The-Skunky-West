@@ -1,6 +1,8 @@
 {
   "FolderOrderSettings":[
-    {"name":"Obstacles","order":2,"path":"folders/Objects/Game/Obstacles.yy",},
+    {"name":"Obstacles","order":3,"path":"folders/Objects/Obstacles.yy",},
+    {"name":"Menu","order":1,"path":"folders/Objects/Menu.yy",},
+    {"name":"Misc","order":2,"path":"folders/Objects/Misc.yy",},
     {"name":"GUI","order":6,"path":"folders/Sprites/Game/GUI.yy",},
     {"name":"Obstacles","order":5,"path":"folders/Sprites/Game/Obstacles.yy",},
     {"name":"Buttons","order":2,"path":"folders/Sprites/Title/Buttons.yy",},
