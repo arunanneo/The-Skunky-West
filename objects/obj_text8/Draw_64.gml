@@ -8,5 +8,5 @@ event_inherited();
 /// @DnDHash : 3DEB6AAD
 /// @DnDArgument : "x" "683"
 /// @DnDArgument : "y" "384"
-/// @DnDArgument : "caption" ""It is up to you to keep todd safe and make him dodge all the obstacles and get him to Gina and get the milk.""
-draw_text(683, 384, string("It is up to you to keep todd safe and make him dodge all the obstacles and get him to Gina and get the milk.") + "");
+/// @DnDArgument : "caption" ""It is up to you to find Gina and no.""
+draw_text(683, 384, string("It is up to you to find Gina and no.") + "");
