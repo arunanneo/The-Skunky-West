@@ -36,7 +36,7 @@
   "isDnd":false,
   "layers":[
     {"$GMREffectLayer":"","%Name":"Dark","depth":0,"effectEnabled":true,"effectType":"_filter_tintfilter","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Dark","properties":[
-        {"name":"g_TintCol","type":1,"value":"#FF4C2C36",},
+        {"name":"g_TintCol","type":1,"value":"#FFCC748F",},
       ],"resourceType":"GMREffectLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMREffectLayer":"","%Name":"Wind","depth":100,"effectEnabled":true,"effectType":"_effect_windblown_particles","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Wind","properties":[
         {"name":"param_sprite","type":2,"value":"Spr_Leaf",},
