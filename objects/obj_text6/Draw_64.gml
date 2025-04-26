@@ -8,5 +8,5 @@ event_inherited();
 /// @DnDHash : 2C488B22
 /// @DnDArgument : "x" "683"
 /// @DnDArgument : "y" "384"
-/// @DnDArgument : "caption" ""A sound came from the TV. Oh yeah, forgot to mention, the storm is happening now.""
-draw_text(683, 384, string("A sound came from the TV. Oh yeah, forgot to mention, the storm is happening now.") + "");
+/// @DnDArgument : "caption" ""A sound came on the Weather channel. The Reporter stated  'Oh yeah, forgot to mention, the storm is happening now.'""
+draw_text(683, 384, string("A sound came on the Weather channel. The Reporter stated  'Oh yeah, forgot to mention, the storm is happening now.'") + "");

@@ -8,5 +8,5 @@ event_inherited();
 /// @DnDHash : 1E9E2972
 /// @DnDArgument : "x" "683"
 /// @DnDArgument : "y" "384"
-/// @DnDArgument : "caption" ""We are expecting a huge bomb cyclone with the biggest wind and most damage expected we have seen in 288 years to hit Oregon tonight.""
-draw_text(683, 384, string("We are expecting a huge bomb cyclone with the biggest wind and most damage expected we have seen in 288 years to hit Oregon tonight.") + "");
+/// @DnDArgument : "caption" ""The Forcaster said 'We are expecting a huge bomb cyclone with the biggest wind and most damage expected we have seen in 288 years to hit Oregon tonight.'""
+draw_text(683, 384, string("The Forcaster said 'We are expecting a huge bomb cyclone with the biggest wind and most damage expected we have seen in 288 years to hit Oregon tonight.'") + "");

@@ -8,5 +8,5 @@ event_inherited();
 /// @DnDHash : 01955C62
 /// @DnDArgument : "x" "683"
 /// @DnDArgument : "y" "384"
-/// @DnDArgument : "caption" ""Living in a house in a lovely Skunkland neighborhood, There lived 2 skunks, named Todd and his wife Gina.""
-draw_text(683, 384, string("Living in a house in a lovely Skunkland neighborhood, There lived 2 skunks, named Todd and his wife Gina.") + "");
+/// @DnDArgument : "caption" ""Living in a house in a lovely Skunkwood neighborhood, there lived two skunks, named Todd and his wife, Gina.""
+draw_text(683, 384, string("Living in a house in a lovely Skunkwood neighborhood, there lived two skunks, named Todd and his wife, Gina.") + "");
