@@ -31,8 +31,8 @@ if(alarm[0] < 0){	/// @DnDAction : YoYo Games.Instances.Color_Sprite
 	/// @DnDVersion : 1
 	/// @DnDHash : 4C307814
 	/// @DnDParent : 559D5106
-	/// @DnDArgument : "speed" "12"
-	speed = 12;
+	/// @DnDArgument : "speed" "20"
+	speed = 20;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1

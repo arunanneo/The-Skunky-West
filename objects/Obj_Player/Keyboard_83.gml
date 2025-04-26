@@ -15,11 +15,6 @@ image_index += 0;
 /// @DnDArgument : "instvar" "1"
 y += move_speed;
 
-/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
-/// @DnDVersion : 1
-/// @DnDHash : 7878838F
-image_angle = 0;
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 6ECCBDDC
