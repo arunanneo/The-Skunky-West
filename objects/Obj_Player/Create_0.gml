@@ -20,9 +20,9 @@ hearts = max_hearts;
 /// @DnDVersion : 1
 /// @DnDHash : 1D4ED612
 /// @DnDInput : 2
-/// @DnDArgument : "expr" "100"
+/// @DnDArgument : "expr" "500"
 /// @DnDArgument : "expr_1" "max_stamina"
 /// @DnDArgument : "var" "max_stamina"
 /// @DnDArgument : "var_1" "stamina"
-max_stamina = 100;
+max_stamina = 500;
 stamina = max_stamina;
