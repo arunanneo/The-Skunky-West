@@ -9,7 +9,7 @@
   "bitRate":16,
   "compression":0,
   "conversionMode":0,
-  "duration":75.990204,
+  "duration":35.472,
   "name":"snd_music_menu",
   "parent":{
     "name":"Sounds",
@@ -21,5 +21,5 @@
   "sampleRate":5512,
   "soundFile":"snd_music_menu.mp3",
   "type":1,
-  "volume":0.0,
+  "volume":1.0,
 }
