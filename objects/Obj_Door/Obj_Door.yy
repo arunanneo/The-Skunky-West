@@ -1,15 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_CollisionParent",
-  "eventList":[],
+  "%Name":"Obj_Door",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_CollisionParent",
+  "name":"Obj_Door",
   "overriddenProperties":[],
   "parent":{
     "name":"Game",
     "path":"folders/Objects/Game.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_CollisionParent",
+    "path":"objects/Obj_CollisionParent/Obj_CollisionParent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,7 +33,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_Door",
+    "path":"sprites/Spr_Door/Spr_Door.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
