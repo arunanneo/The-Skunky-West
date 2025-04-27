@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_music_game",
+  "%Name":"snd_music_story",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":46.584,
-  "name":"snd_music_game",
+  "duration":34.944,
+  "name":"snd_music_story",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_music_game.mp3",
+  "soundFile":"snd_music_story.mp3",
   "type":0,
   "volume":1.0,
 }
