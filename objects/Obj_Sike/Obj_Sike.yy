@@ -6,8 +6,8 @@
   "name":"Obj_Sike",
   "overriddenProperties":[],
   "parent":{
-    "name":"Obstacles",
-    "path":"folders/Objects/Obstacles.yy",
+    "name":"Misc",
+    "path":"folders/Objects/Misc.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -33,9 +33,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Sign",
-    "path":"sprites/Spr_Sign/Spr_Sign.yy",
+    "name":"Spr_SIKE",
+    "path":"sprites/Spr_SIKE/Spr_SIKE.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

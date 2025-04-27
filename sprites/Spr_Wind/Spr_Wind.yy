@@ -38,8 +38,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Game",
-    "path":"folders/Sprites/Game.yy",
+    "name":"Obstacles",
+    "path":"folders/Sprites/Game/Obstacles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
