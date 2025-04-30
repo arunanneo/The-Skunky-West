@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_CollisionParent",
-  "eventList":[],
+  "%Name":"Obj_Rizzler",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_CollisionParent",
+  "name":"Obj_Rizzler",
   "overriddenProperties":[],
   "parent":{
-    "name":"Game",
-    "path":"folders/Objects/Game.yy",
+    "name":"Misc",
+    "path":"folders/Objects/Misc.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_Rizz",
+    "path":"sprites/Spr_Rizz/Spr_Rizz.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
