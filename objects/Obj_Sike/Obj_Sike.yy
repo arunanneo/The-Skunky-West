@@ -9,7 +9,10 @@
     "name":"Misc",
     "path":"folders/Objects/Misc.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_CollisionParent",
+    "path":"objects/Obj_CollisionParent/Obj_CollisionParent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

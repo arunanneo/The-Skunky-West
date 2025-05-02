@@ -21,9 +21,3 @@ y += -move_speed;
 /// @DnDArgument : "expr" "90"
 /// @DnDArgument : "var" "input_direction"
 input_direction = 90;
-
-/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
-/// @DnDVersion : 1
-/// @DnDHash : 6B35609F
-/// @DnDArgument : "angle" "180"
-image_angle = 180;
