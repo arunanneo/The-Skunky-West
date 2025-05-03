@@ -10,8 +10,8 @@
     "path":"folders/Objects/Misc.yy",
   },
   "parentObjectId":{
-    "name":"Obj_CollisionParent",
-    "path":"objects/Obj_CollisionParent/Obj_CollisionParent.yy",
+    "name":"Obj_Sike",
+    "path":"objects/Obj_Sike/Obj_Sike.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

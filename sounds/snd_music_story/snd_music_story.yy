@@ -20,6 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"snd_music_story.mp3",
-  "type":0,
+  "type":1,
   "volume":1.0,
 }

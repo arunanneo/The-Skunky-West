@@ -8,5 +8,5 @@ event_inherited();
 /// @DnDHash : 3DEB6AAD
 /// @DnDArgument : "x" "683"
 /// @DnDArgument : "y" "384"
-/// @DnDArgument : "caption" ""It is up to you to find Gina and no.""
-draw_text(683, 384, string("It is up to you to find Gina and no.") + "");
+/// @DnDArgument : "caption" ""It is up to you to find Gina somewhere and survive untile you find it.""
+draw_text(683, 384, string("It is up to you to find Gina somewhere and survive untile you find it.") + "");

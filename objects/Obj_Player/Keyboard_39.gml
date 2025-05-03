@@ -16,7 +16,6 @@ x += move_speed;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 5353E2CC
-/// @DnDArgument : "expr" "180"
+/// @DnDHash : 14971FC0
 /// @DnDArgument : "var" "input_direction"
-input_direction = 180;
+input_direction = 0;

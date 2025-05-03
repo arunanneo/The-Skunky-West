@@ -1,5 +1,5 @@
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 009EFDD2
-/// @DnDArgument : "speed" "-7"
-speed = -7;
+/// @DnDHash : 7C6F8F93
+/// @DnDArgument : "speed" "-7*global.GSP"
+speed = -7*global.GSP;

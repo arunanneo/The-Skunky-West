@@ -8,5 +8,6 @@ audio_stop_all();
 /// @DnDHash : 13492E44
 /// @DnDArgument : "soundid" "snd_music_menu"
 /// @DnDArgument : "loop" "1"
+/// @DnDArgument : "offset" "1.5"
 /// @DnDSaveInfo : "soundid" "snd_music_menu"
-audio_play_sound(snd_music_menu, 0, 1, 1.0, undefined, 1.0);
+audio_play_sound(snd_music_menu, 0, 1, 1.0, 1.5, 1.0);
