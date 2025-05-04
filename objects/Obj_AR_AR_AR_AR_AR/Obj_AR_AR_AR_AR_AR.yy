@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Backrooms",
+  "%Name":"Obj_AR_AR_AR_AR_AR",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Backrooms",
+  "name":"Obj_AR_AR_AR_AR_AR",
   "overriddenProperties":[],
   "parent":{
     "name":"Obstacles",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_PuddleOfDoom",
-    "path":"sprites/Spr_PuddleOfDoom/Spr_PuddleOfDoom.yy",
+    "name":"Spr_BloodyPuddle",
+    "path":"sprites/Spr_BloodyPuddle/Spr_BloodyPuddle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
