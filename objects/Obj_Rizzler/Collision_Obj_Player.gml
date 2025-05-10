@@ -16,3 +16,9 @@ global.uwu_popup = layer_sequence_create("UwU", x + 683, y + 384, seq_uwu);
 /// @DnDHash : 19EAD3CC
 /// @DnDApplyTo : {Obj_Player}
 with(Obj_Player) instance_destroy();
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 59A03FA9
+/// @DnDArgument : "steps" "600"
+alarm_set(0, 600);

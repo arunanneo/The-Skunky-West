@@ -31,7 +31,7 @@
     {"name":"snd_music_story","order":3,"path":"sounds/snd_music_story/snd_music_story.yy",},
     {"name":"snd_wuddle_splish_splosh","order":2,"path":"sounds/snd_wuddle_splish_splosh/snd_wuddle_splish_splosh.yy",},
     {"name":"Blue_Wall_Tileset","order":2,"path":"sprites/Blue_Wall_Tileset/Blue_Wall_Tileset.yy",},
-    {"name":"Broken_cars","order":8,"path":"sprites/Broken_cars/Broken_cars.yy",},
+    {"name":"Broken_cars","order":9,"path":"sprites/Broken_cars/Broken_cars.yy",},
     {"name":"Gina","order":2,"path":"sprites/Gina/Gina.yy",},
     {"name":"Pothole_obstacle","order":3,"path":"sprites/Pothole_obstacle/Pothole_obstacle.yy",},
     {"name":"Red_Wall_Tileset","order":1,"path":"sprites/Red_Wall_Tileset/Red_Wall_Tileset.yy",},
